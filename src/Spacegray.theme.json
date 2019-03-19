@@ -110,7 +110,7 @@
     },
     "NavBar.borderColor": "#1C1F26",
     "Notification": {
-      "background": "#232830",
+      "background": "#2b303b",
       "borderColor": "#232830",
       "errorForeground": "#C0C5CE",
       "errorBackground": "#5a2d2d",
