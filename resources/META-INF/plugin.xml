@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.github.mturlo.intellij.theme.spacegray</id>
     <name>Spacegray Theme</name>
-    <version>0.0.1</version>
+    <version>1.0</version>
     <vendor email="maciej.turlo@gmail.com" url="http://www.github.com/mturlo/intellij-spacegray">Maciej Turlo</vendor>
 
     <description><![CDATA[
