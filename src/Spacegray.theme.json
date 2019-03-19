@@ -51,8 +51,8 @@
         "endBackground": "#383C4A",
         "startBorderColor": "#1e2229",
         "endBorderColor": "#1e2229",
-        "focusedBorderColor": "#a8555d",
-        "focusColor": "#BF616A",
+        "focusedBorderColor": "#656A75",
+        "focusColor": "#656A75",
         "shadowColor": "#1C1F26"
       }
     },
