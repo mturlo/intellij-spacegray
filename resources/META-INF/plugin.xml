@@ -2,7 +2,7 @@
     <id>com.github.mturlo.intellij.theme.spacegray</id>
     <name>Spacegray Theme</name>
     <version>0.0.1</version>
-    <vendor email="maciej.turlo@gmail.com" url="http://www.github.com/mturlo/intellij-spacegray">Maciej Turło</vendor>
+    <vendor email="maciej.turlo@gmail.com" url="http://www.github.com/mturlo/intellij-spacegray">Maciej Turlo</vendor>
 
     <description><![CDATA[
       Spacegray theme for IntelliJ, inspired by one made by kkga for <a href="https://kkga.github.io/spacegray/">SublimeText</a>
