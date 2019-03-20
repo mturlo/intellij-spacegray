@@ -327,12 +327,4 @@
     </option>
     <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
   </attributes>
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="0.89" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="Hasklig" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Meslo LG S for Powerline" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LIGATURES" value="true" />
 </scheme>
