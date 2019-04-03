@@ -46,7 +46,6 @@
       "shadowColor": "#1C1F26",
 
       "default": {
-        "foreground": "#A7ADBA",
         "startBackground": "#383C4A",
         "endBackground": "#383C4A",
         "startBorderColor": "#1e2229",
@@ -62,7 +61,6 @@
     },
     "ComboBox": {
       "nonEditableBackground": "#232830",
-      "background": "#232830",
       "ArrowButton": {
         "iconColor": "#A7ADBA",
         "disabledIconColor": "#383C4A",
@@ -130,7 +128,6 @@
     },
     "ParameterInfo": {
       "background": "#383C4A",
-      "foreground": "#A7ADBA",
       "infoForeground": "#A7ADBA",
       "currentOverloadBackground": "#5a6173",
       "currentParameterForeground": "#C0C5CE"
@@ -141,7 +138,6 @@
       "Header.activeBackground": "#232830",
       "Header.inactiveBackground": "#232830",
       "Advertiser": {
-        "foreground": "#A7ADBA",
         "borderColor": "#383C4A",
         "borderInsets": "4,8,3,0"
       }
@@ -167,7 +163,6 @@
         "selectedBackground": "#232830"
       },
       "SearchField": {
-        "background": "#232830",
         "borderColor": "#232830"
       }
     },
@@ -178,7 +173,6 @@
     "SpeedSearch": {
       "foreground": "#C0C5CE",
       "borderColor": "#232830",
-      "background": "#232830",
       "errorForeground": "#bf4c53"
     },
     "StatusBar.borderColor": "#232830",
@@ -190,11 +184,9 @@
     "TableHeader.cellBorder": "3,0,3,0",
     "Table.stripeColor": "#232830",
     "TextArea": {
-      "background": "#232830",
       "selectionBackground": "#000000"
     },
     "TextField": {
-      "background": "#232830",
       "selectionBackground": "#000000"
     },
     "ToggleButton": {
@@ -202,10 +194,6 @@
       "onBackground": "#232830",
       "offForeground": "#5a6173",
       "offBackground": "#2b303b"
-    },
-    "ToolTip": {
-      "background": "#232830",
-      "Actions.background": "#232830"
     },
     "ToolWindow": {
       "Header": {
