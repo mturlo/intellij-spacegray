@@ -116,7 +116,7 @@
       "MoreButton.innerBorderColor": "#232830",
       "ToolWindow": {
         "informativeForeground": "#A7ADBA",
-        "informativeBackground": "#232830",
+        "informativeBackground": "#1C1F26",
         "informativeBorderColor": "#C0C5CE",
         "warningForeground": "#232830",
         "warningBackground": "#EBCB8B",
