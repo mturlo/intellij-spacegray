@@ -25,9 +25,8 @@
       "acceleratorSelectionForeground": "#C0C5CE",
       "errorForeground": "#bf4c53",
       "disabledBorderColor": "#383C4A",
-      "focusColor": "#C0C5CE",
-      "focusedBorderColor": "#1e2229",
-      "separatorForeground": "#656A75",
+      "focusColor": "#656A75",
+      "focusedBorderColor": "#656A75",
       "separatorColor": "#383C4A",
       "lineSeparatorColor": "#383C4A",
       "modifiedItemForeground": "#BF616A"
@@ -39,19 +38,18 @@
       "pressedBorderColor": "#383C4A"
     },
     "Button": {
-      "startBackground": "#1e2229",
-      "endBackground": "#1e2229",
-      "startBorderColor": "#232830",
-      "endBorderColor": "#232830",
+      "arc": 10,
+      "startBackground": "#383C4A",
+      "endBackground": "#383C4A",
+      "startBorderColor": "#5a6173",
+      "endBorderColor": "#383C4A",
       "shadowColor": "#1C1F26",
 
       "default": {
         "startBackground": "#383C4A",
-        "endBackground": "#383C4A",
-        "startBorderColor": "#1e2229",
-        "endBorderColor": "#1e2229",
-        "focusedBorderColor": "#656A75",
-        "focusColor": "#656A75",
+        "endBackground": "#5a6173",
+        "startBorderColor": "#5a6173",
+        "endBorderColor": "#5a6173",
         "shadowColor": "#1C1F26"
       }
     },
