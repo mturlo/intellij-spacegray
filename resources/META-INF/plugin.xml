@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.github.mturlo.intellij.theme.spacegray</id>
     <name>Spacegray Theme</name>
-    <version>1.1</version>
+    <version>1.2</version>
     <vendor email="maciej.turlo@gmail.com" url="http://www.github.com/mturlo/intellij-spacegray">Maciej Turlo</vendor>
 
     <description><![CDATA[
@@ -10,6 +10,11 @@
     ]]></description>
 
     <change-notes><![CDATA[
+
+    <b>1.2</b>
+    <ul>
+        <li>Restyled buttons</li>
+    </ul>
 
     <b>1.1</b>
     <ul>
