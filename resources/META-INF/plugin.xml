@@ -35,12 +35,16 @@
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->
     <depends>com.intellij.modules.lang</depends>
+    <depends optional="true">com.chrisrm.idea.MaterialThemeUI</depends>
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
         <themeProvider id="a6b84a05-cf51-40b1-a71f-ae9474d53615" path="/Spacegray.theme.json"/>
     </extensions>
 
+    <extensions defaultExtensionNs="com.chrisrm.idea.MaterialThemeUI">
+        <bundledTheme name="Absent" path="/themes/spacegray-mt.xml"/>
+    </extensions>
     <actions>
         <!-- Add your actions here -->
     </actions>
