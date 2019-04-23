@@ -48,7 +48,7 @@
     </extensions>
 
     <extensions defaultExtensionNs="com.chrisrm.idea.MaterialThemeUI">
-        <bundledTheme name="Absent" path="/themes/spacegray-mt.xml"/>
+        <bundledTheme name="Spacegray" path="/themes/spacegray-mt"/>
     </extensions>
     <actions>
         <!-- Add your actions here -->
