@@ -67,8 +67,7 @@
     },
     "ComboPopup.border": "1,1,1,1,64647A",
     "CompletionPopup": {
-      "matchForeground": "#BF616A",
-      "matchSelectionForeground": "#BF616A"
+      "matchForeground": "#BF616A"
     },
     "Component": {
       "errorFocusColor": "#bf4c53",
@@ -92,11 +91,9 @@
     },
     "EditorPane.inactiveBackground": "#2b303b",
     "EditorTabs": {
-      "selectedForeground": "#C0C5CE",
       "selectedBackground": "#2b303b",
-      "underlineColor": "#2b303b",
-      "inactiveMaskColor": "#1C1F26",
-      "borderColor": "#1C1F26"
+      "underlinedTabBackground": "#2b303b",
+      "underlineHeight": "0"
     },
     "Link": {
       "activeForeground": "#7FA1B3",
