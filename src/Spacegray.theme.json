@@ -123,6 +123,7 @@
     },
     "ParameterInfo": {
       "background": "#383C4A",
+      "disabledForeground":  "#A7ADBA",
       "infoForeground": "#A7ADBA",
       "currentOverloadBackground": "#5a6173",
       "currentParameterForeground": "#C0C5CE"
