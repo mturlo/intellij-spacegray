@@ -81,6 +81,10 @@
       "background": "#A7ADBA",
       "foreground": "#000000"
     },
+    "DefaultTabs": {
+      "underlineColor": "#BF616A",
+      "inactiveUnderlineColor": "#5a6173"
+    },
     "DragAndDrop": {
       "areaForeground": "#C0C5CE",
       "areaBackground": "#BF616A",
