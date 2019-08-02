@@ -191,6 +191,10 @@
       "offForeground": "#5a6173",
       "offBackground": "#2b303b"
     },
+    "ToolTip": {
+      "foreground": "#232830",
+      "infoForeground": "#A7ADBA"
+    },
     "ToolWindow": {
       "Header": {
         "background": "#1C1F26",
