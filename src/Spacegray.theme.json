@@ -117,8 +117,8 @@
         "informativeForeground": "#A7ADBA",
         "informativeBackground": "#1C1F26",
         "informativeBorderColor": "#C0C5CE",
-        "warningForeground": "#232830",
-        "warningBackground": "#EBCB8B",
+        "warningForeground": "#EBCB8B",
+        "warningBackground": "#232830",
         "warningBorderColor": "#cba869",
         "errorForeground": "#C0C5CE",
         "errorBackground": "#5a2d2d",
@@ -194,10 +194,6 @@
       "onBackground": "#232830",
       "offForeground": "#5a6173",
       "offBackground": "#2b303b"
-    },
-    "ToolTip": {
-      "foreground": "#232830",
-      "infoForeground": "#A7ADBA"
     },
     "ToolWindow": {
       "Header": {
