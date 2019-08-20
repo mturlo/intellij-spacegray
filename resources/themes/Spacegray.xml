@@ -32,6 +32,10 @@
     <option name="WHITESPACES" value="65737e" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="343d46" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="656a758c" />
+    <option name="FILESTATUS_ADDED" value="99BD8E" />
+    <option name="FILESTATUS_DELETED" value="BF616A" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="656A75" />
+    <option name="FILESTATUS_MODIFIED" value="7FA1B3" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
