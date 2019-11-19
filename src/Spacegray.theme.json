@@ -97,7 +97,8 @@
     "EditorTabs": {
       "selectedBackground": "#2b303b",
       "underlinedTabBackground": "#2b303b",
-      "underlineHeight": "0"
+      "underlineHeight": "0",
+      "borderColor": "#2b303b"
     },
     "Link": {
       "activeForeground": "#7FA1B3",
