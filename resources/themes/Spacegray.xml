@@ -13,6 +13,10 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="2b303b" />
     <option name="DELETED_LINES_COLOR" value="bf616a" />
     <option name="DOCUMENTATION_COLOR" value="232830" />
+    <option name="FILESTATUS_ADDED" value="99bd8e" />
+    <option name="FILESTATUS_DELETED" value="bf616a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="656a75" />
+    <option name="FILESTATUS_MODIFIED" value="7fa1b3" />
     <option name="GUTTER_BACKGROUND" value="2b303b" />
     <option name="INDENT_GUIDE" value="3b464d" />
     <option name="INFORMATION_HINT" value="232830" />
@@ -21,7 +25,14 @@
     <option name="MODIFIED_LINES_COLOR" value="4f5b66" />
     <option name="SELECTED_INDENT_GUIDE" value="65737e" />
     <option name="SELECTION_BACKGROUND" value="4f5b66" />
-    <option name="ScrollBar.Mac.thumbColor" value="5a617359" />
+    <option name="ScrollBar.thumbColor" value="383C4A" />
+    <option name="ScrollBar.hoverThumbColor" value="5a6173" />
+    <option name="ScrollBar.trackColor" value="2b303b" />
+    <option name="ScrollBar.hoverTrackColor" value="2b303b" />
+    <option name="ScrollBar.Mac.thumbColor" value="383C4A" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="5a6173" />
+    <option name="ScrollBar.Mac.trackColor" value="2b303b" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="2b303b" />
     <option name="TEARLINE_COLOR" value="868686" />
     <option name="TOOLTIP" value="4f5b66" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="4f5b66" />
@@ -31,11 +42,6 @@
     <option name="VCS_ANNOTATIONS_COLOR_5" value="232830" />
     <option name="WHITESPACES" value="65737e" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="343d46" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="656a758c" />
-    <option name="FILESTATUS_ADDED" value="99BD8E" />
-    <option name="FILESTATUS_DELETED" value="BF616A" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="656A75" />
-    <option name="FILESTATUS_MODIFIED" value="7FA1B3" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -230,8 +236,6 @@
         <option name="FOREGROUND" value="96b5b4" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
@@ -245,12 +249,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="3c3f41" />

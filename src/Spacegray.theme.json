@@ -158,6 +158,14 @@
       "passedColor": "#99BD8E",
       "passedEndColor": "#62795b"
     },
+    "ScrollBar": {
+      "thumbColor": "#383C4A",
+      "hoverThumbColor": "#5a6173",
+      "Mac": {
+        "thumbColor": "#383C4A",
+        "hoverThumbColor": "#5a6173"
+      }
+    },
     "SearchEverywhere": {
       "Header.background": "#1C1F26",
       "Tab": {
