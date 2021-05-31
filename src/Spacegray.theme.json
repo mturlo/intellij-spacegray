@@ -95,7 +95,6 @@
     },
     "EditorPane.inactiveBackground": "#2b303b",
     "EditorTabs": {
-      "selectedBackground": "#2b303b",
       "underlinedTabBackground": "#2b303b",
       "underlineHeight": "0",
       "borderColor": "#2b303b"
@@ -203,7 +202,6 @@
         "borderColor": "#232830"
       },
       "HeaderTab": {
-        "selectedBackground": "#232830",
         "selectedInactiveBackground": "#232830",
         "hoverBackground": "#1C1F26",
         "hoverInactiveBackground": "#1C1F26"
