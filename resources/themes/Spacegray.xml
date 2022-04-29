@@ -12,6 +12,8 @@
     <option name="CARET_ROW_COLOR" value="353c47" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b303b" />
     <option name="DELETED_LINES_COLOR" value="bf616a" />
+    <option name="DOCUMENTATION2_COLOR" value="232830" />
+    <option name="DOCUMENTATION_COLOR" value="232830" />
     <option name="FILESTATUS_ADDED" value="99bd8e" />
     <option name="FILESTATUS_DELETED" value="bf616a" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="656a75" />
@@ -24,10 +26,10 @@
     <option name="MODIFIED_LINES_COLOR" value="4f5b66" />
     <option name="SELECTED_INDENT_GUIDE" value="65737e" />
     <option name="SELECTION_BACKGROUND" value="4f5b66" />
-    <option name="ScrollBar.Mac.thumbColor" value="383c4a" />
-    <option name="ScrollBar.Mac.trackColor" value="2b303b" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="5a6173" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="2b303b" />
+    <option name="ScrollBar.Mac.thumbColor" value="383c4a" />
+    <option name="ScrollBar.Mac.trackColor" value="2b303b" />
     <option name="ScrollBar.hoverThumbColor" value="5a6173" />
     <option name="ScrollBar.hoverTrackColor" value="2b303b" />
     <option name="ScrollBar.thumbColor" value="383c4a" />
@@ -41,8 +43,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_5" value="232830" />
     <option name="WHITESPACES" value="65737e" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="343d46" />
-    <option name="DOCUMENTATION_COLOR" value="232830" />
-    <option name="DOCUMENTATION2_COLOR" value="232830" />
+    <option name="LOOKUP_COLOR" value="232830" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
